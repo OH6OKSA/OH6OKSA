@@ -1,18 +1,20 @@
 ### Hi, I'm Niko, OH6OKSA 👋
 
-Radio amateur from Finland.
+Radio amateur from Finland, licensed since 1994. By profession I run [Oksa Consulting Oy](https://oksa.fi).
 
-#### 📻 Current project: AetherSDR Mobile
+#### 📻 Current project: OksaSDR
 
-An unofficial **iPad and iPhone** port of [AetherSDR](https://github.com/aethersdr/AetherSDR), the open-source FlexRadio client. It is a standalone Qt/QML touch app that links the AetherSDR engine and talks to the radio directly, with no PC in between.
+[**OksaSDR**](https://github.com/OH6OKSA/OksaSDR) is a free FlexRadio client for **iPhone, iPad, Mac and Android**, built on the open-source [AetherSDR](https://github.com/aethersdr/AetherSDR) engine. It talks to the radio directly, at home, over SmartLink or your own VPN, with no computer in between.
 
-- Panadapter and waterfall with touch, Apple Pencil, trackpad and keyboard tuning
-- Mode, filters, NR/NB/ANF/AGC, band stack, RX audio and hold-to-talk transmit
-- Tablet and phone layouts that adapt live to rotation, Split View and foldables
-- Built and signed in GitHub Actions and distributed through TestFlight (beta)
+- Panadapter and waterfall, also in 3D, with touch, Apple Pencil, trackpad and keyboard tuning
+- Every receive control, voice and CW transmit, a voice keyer and TX processing
+- **FT8 and FT4** built in, on every slice at once with WSJT-X colours, plus RADE digital voice
+- A log with QRZ.com lookup, ADIF, Wavelog / Cloudlog and PSK Reporter
+- Phone, tablet and foldable layouts that adapt live
+- Built in GitHub Actions; beta on TestFlight and as an Android APK
 
-➡️ Code: [OH6OKSA/AetherSDR – `mobile/`](https://github.com/OH6OKSA/AetherSDR/tree/mobile/aether-mobile-core/mobile) · Discussion: [aethersdr/AetherSDR#6409](https://github.com/aethersdr/AetherSDR/discussions/6409)
+➡️ [Join the beta](https://github.com/OH6OKSA/OksaSDR/blob/mobile/oksasdr/docs/mobile/TESTING.md) · [User manual](https://github.com/OH6OKSA/OksaSDR/blob/mobile/oksasdr/docs/mobile/MANUAL.md) · [OksaSDR Users on Facebook](https://www.facebook.com/groups/1468327561855382)
 
-Not an official AetherSDR release.
+OksaSDR is a community project, not affiliated with FlexRadio and not an official AetherSDR app.
 
 📫 oh6oksa@gmail.com · 73!
